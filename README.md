@@ -1,16 +1,39 @@
-## Hi there 👋
-
-<!--
-**skilledify/skilledify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img
+      src="https://img.shields.io/badge/html5-aquamarine?style=for-the-badge&logo=HTML5&logoColor=#E34F26"
+    />
+    <img
+      src="https://img.shields.io/badge/ccs3-aquamarine?style=for-the-badge&logo=CSS3&logoColor=#E34F26"
+    /> 
+    <img
+      src="https://img.shields.io/badge/javascript-aquamarine?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"
+    />
+    <img
+      src="https://img.shields.io/badge/sass-aquamarine?style=for-the-badge&logo=sass&logoColor=#F7DF1E"
+    />
+    <img
+      src="https://img.shields.io/badge/figma-aquamarine?style=for-the-badge&logo=figma&logoColor=#F7DF1E"
+    />
+    <img
+      src="https://img.shields.io/badge/photoshop-aquamarine?style=for-the-badge&logo=photoshop&logoColor=#F7DF1E"
+    />
+    <img
+      src="https://img.shields.io/badge/vite-aquamarine?style=for-the-badge&logo=vite&logoColor=#646CFF"
+    />
+    <img
+      src="https://img.shields.io/badge/gulp-aquamarine?style=for-the-badge&logo=gulp&logoColor=#646CFF"
+    />
+    <img
+      src="https://img.shields.io/badge/webpack-aquamarine?style=for-the-badge&logo=webpack&logoColor=#646CFF"
+    />
+    <img
+      src="https://img.shields.io/badge/jquery-aquamarine?style=for-the-badge&logo=jquery&logoColor=#0769AD"
+    />
+    <img
+      src="https://img.shields.io/badge/npm-aquamarine?style=for-the-badge&logo=npm&logoColor=#0769AD"
+    />
+        <img
+      src="https://img.shields.io/badge/bem-aquamarine?style=for-the-badge&logo=bem&logoColor=##000000"
+    />
+        <img
+      src="https://img.shields.io/badge/bootstrap-aquamarine?style=for-the-badge&logo=bootstrap&logoColor=##000000"
+    />
