@@ -67,6 +67,44 @@ ___
     <img
       src="https://img.shields.io/badge/grid-blue?style=for-the-badge"
     />
+     <img
+      src="https://img.shields.io/badge/svg-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/css анимации-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/вёрстка под CMS-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/JS библиотеки-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/вёрстка email писем-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/open server-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/mamp-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/ajax-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/REST API-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/Postman-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/MaterializeCss-blue?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/badge/TailwindCss-blue?style=for-the-badge"
+    />
+
+  ___
 
   ___
 
