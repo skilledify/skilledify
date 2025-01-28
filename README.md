@@ -94,9 +94,7 @@ ___
     <img
       src="https://img.shields.io/badge/REST API-blue?style=for-the-badge"
     />
-    <img
-      src="https://img.shields.io/badge/Postman-blue?style=for-the-badge"
-    />
+
     <img
       src="https://img.shields.io/badge/MaterializeCss-blue?style=for-the-badge"
     />
