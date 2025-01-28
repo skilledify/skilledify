@@ -27,7 +27,6 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="POSTMAN" alt="POSTMAN" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
 
 
@@ -97,13 +96,13 @@ ___
     <img
       src="https://img.shields.io/badge/postman-blue?style=for-the-badge"
     />
+    <img
+      src="https://img.shields.io/badge/materializecss-blue?style=for-the-badge"
+    />
+        <img
+      src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge"
+    />
 
-    <img
-      src="https://img.shields.io/badge/MaterializeCss-blue?style=for-the-badge"
-    />
-    <img
-      src="https://img.shields.io/badge/TailwindCss-blue?style=for-the-badge"
-    />
 
   ___
 
