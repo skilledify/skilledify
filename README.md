@@ -118,7 +118,9 @@ ___
 <img 
   src="https://img.shields.io/badge/MS Windows Family-blue?style=for-the-badge"
   />
-
+  <img 
+  src="https://img.shields.io/badge/Linux Os-blue?style=for-the-badge"
+  />
 
   ___
 
