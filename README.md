@@ -118,7 +118,20 @@ ___
 <img 
   src="https://img.shields.io/badge/MS Windows Family-blue?style=for-the-badge"
   />
+
+
+  ___
+
+  ___
     
-  
+  ## 🌐 Языки
+
+<img src="https://flagcdn.com/w40/ru.png" width="20"/> Русский — Родной  
+
+<img src="https://flagcdn.com/w40/gb.png" width="20"/> Английский — B1
+
+<img src="https://flagcdn.com/w40/am.png" width="20"/> Армянский — C2  
+
+<img src="https://flagcdn.com/w40/tr.png" width="20"/> Турецкий — B2
 
    
