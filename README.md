@@ -107,11 +107,23 @@ ___
       src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge"
     />
 
-
   ___
 
   ___
 
+🛠️ **Мои IDE:**
+
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+  />
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"
+  />
+
+  ___
+
+  ___
+  
 🛠️ **Мои операционные системы:**
 
 <img 
