@@ -114,7 +114,7 @@ ___
 🛠️ **Мои IDE:**
 
 <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="65" height="65"
+  src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="60" height="60"
   />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs Code" alt="Vs Code" width="55" height="55"
