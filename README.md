@@ -114,11 +114,12 @@ ___
 🛠️ **Мои IDE:**
 
 <img 
-src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs Code" alt="Vs Code" width="40" height="40"
+  src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="50" height="50"
   />
 <img 
-  src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs Code" alt="Vs Code" width="50" height="50"
   />
+
 
   ___
 
