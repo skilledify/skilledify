@@ -150,8 +150,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-origina
 
 <img src="https://flagcdn.com/w40/gb.png" width="20"/> Английский — A2
 
-<img src="https://flagcdn.com/w40/am.png" width="20"/> Армянский — C2  
+<img src="https://flagcdn.com/w40/am.png" width="20"/> Армянский — C1  
 
-<img src="https://flagcdn.com/w40/tr.png" width="20"/> Турецкий — A2
+<img src="https://flagcdn.com/w40/tr.png" width="20"/> Турецкий — B2
+
+
 
    
